@@ -1,0 +1,180 @@
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.exe
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.deps.json
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.json
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.dev.json
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.AssemblyReference.cache
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfoInputs.cache
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfo.cs
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.xml
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\scopedcss\bundle\projetoTeste.styles.css
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CopyComplete
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.exe
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.deps.json
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.json
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.xml
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\scopedcss\bundle\projetoTeste.styles.css
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CopyComplete
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\Desktop\Nova pasta\projetosAPSI\projetoTeste\obj\Debug\net5.0\projetoTeste.genruntimeconfig.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\projetoTeste.exe
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\projetoTeste.deps.json
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.json
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.dev.json
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.AssemblyReference.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfoInputs.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfo.cs
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.xml
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\scopedcss\bundle\projetoTeste.styles.css
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CopyComplete
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\TrabalhoAPS\projetoTeste\obj\Debug\net5.0\projetoTeste.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\projetoTeste.exe
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\projetoTeste.deps.json
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.json
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\projetoTeste.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\staticwebassets\projetoTeste.StaticWebAssets.xml
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\scopedcss\bundle\projetoTeste.styles.css
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.csproj.CopyComplete
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\ref\projetoTeste.dll
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.pdb
+C:\Users\Leandro\Desktop\Semana3\projetoTeste\obj\Debug\net5.0\projetoTeste.genruntimeconfig.cache

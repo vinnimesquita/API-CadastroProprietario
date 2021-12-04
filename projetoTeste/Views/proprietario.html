@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Proprietários</title>
+        <meta charset="utf-8">
+        
+        <script src="./scripts/jquery-3.5.1.js"></script>
+        <script src="./scripts/proprietario/cadastro.js"></script>
+        <script src="./scripts/proprietario/grid.js"></script>
+    </head>
+    
+    <body>
+        <form name="formulario">
+
+            <input type="hidden" id="id">
+            <p>
+                <label>Nome:</label> 
+                <input id="nome" type="text">
+            </p>
+ 
+            <p>
+                <label>Endereço:</label> 
+                <input id="endereco" type="text">
+            </p>
+
+            <p>
+                <label>Telefone:</label> 
+                <input id="telefone" type="text">
+            </p>
+ 
+            <p>
+                <label>Tipo Imovel:</label> 
+                <input type="text" id="imovel">
+            </p>
+    
+            <p>
+                <button id="salvar" type="button">Salvar</button>
+            </p>
+ 
+            <hr>
+ 
+            <p>
+                <label>Proprietários Cadastrados</label> 
+                <p>
+                    <label>Filtrar por imóvel:</label> 
+                    <select id="filtrarImovel">
+                        <option value="0">Selecione o tipo de imóvel...</option>
+                    </select>
+                </p>
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>NOME</th>
+                            <th>ENDEREÇO</th>
+                            <th>TELEFONE</th>
+                            <th>IMOVEL</th>
+                            <th>AÇÕES</th>
+                        </tr>
+                    </thead>
+                    <tbody id="grid">
+ 
+                    </tbody>
+                </table>
+            </p>
+        </form>
+    </body>
+</html>
